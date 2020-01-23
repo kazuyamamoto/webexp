@@ -1,5 +1,5 @@
 # webexp
-Experimental web application using [Bulma](https://bulma.io/), [Mithril](https://mithril.js.org/), [Font Awesome](https://fontawesome.com/), and [statik](https://github.com/rakyll/statik).
+Experimental single binary web application using [Bulma](https://bulma.io/), [Mithril](https://mithril.js.org/), [Font Awesome](https://fontawesome.com/), and [statik](https://github.com/rakyll/statik).
 
 
 ## Usage
